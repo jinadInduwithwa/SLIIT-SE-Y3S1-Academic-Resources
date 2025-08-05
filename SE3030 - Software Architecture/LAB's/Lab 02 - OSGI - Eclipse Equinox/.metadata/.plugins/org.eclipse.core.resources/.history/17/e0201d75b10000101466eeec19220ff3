@@ -1,0 +1,22 @@
+package servicesubscriber;
+
+import com.mtit.service.ServicePublish;
+import org.osgi.framework.BundleActivator;
+import org.osgi.framework.BundleContext;
+import org.osgi.framework.ServiceReference;
+
+public class Activator implements BundleActivator {
+
+	ServiceReference serviceTrference;
+
+	public void start(BundleContext context) throws Exception {
+		System.out.println("Start Subscriber Service");
+		serviceTrference = context.getServiceReference(ServicePublish.class.getName());
+		
+	}
+
+	public void stop(BundleContext bundleContext) throws Exception {
+		Activator.context = null;
+	}
+
+}
