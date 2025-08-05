@@ -1,0 +1,52 @@
+package Junit;
+
+public class Calculation {
+	
+	// methods for assertEquals 
+	public static  int addition(int a, int b) {
+		int total = a+b;
+		return total;
+	}
+	
+	public static  int subtraction(int x, int y) {
+		int result = x-y;
+		return result;
+	}
+	
+	 // Method for assertArrayEquals
+    public static int[] getArray() {
+        return new int[]{1, 2, 3};
+    }
+	
+    // Method for assertTrue
+    public static boolean checkCondition() {
+        return (10 > 5);
+    }
+    
+    // Method for assertFalse
+    public static boolean checkFalseCondition() {
+        return (5 > 10);
+    }
+    
+    // Method for assertNull
+    public static String getNullValue() {
+        return null;
+    }
+    
+    // Method for assertNotNull
+    public static String getNotNullValue() {
+        return "JUnit Testing";
+    }
+    
+    // Method for assertSame
+    public static String getSameObject() {
+        return "JUnit"; 
+    }
+    
+    // Method for assertNotSame )
+    public static String getDifferentObject() {
+        return new String("JUnit"); 
+    }
+	
+
+}

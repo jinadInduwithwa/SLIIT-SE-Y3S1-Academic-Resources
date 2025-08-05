@@ -1,0 +1,363 @@
+{
+  "id": "da3085f6-e116-444d-a430-0bce3df04065",
+  "version": "2.0",
+  "name": "w3 school test ",
+  "url": "https://www.w3schools.com",
+  "tests": [{
+    "id": "9e2d041c-538c-436d-b57d-a674e60f560e",
+    "name": "w3school ui test 1 ",
+    "commands": [{
+      "id": "de2e0a6f-a806-4392-9e36-ec8bd2f80f4a",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6aa5880f-9035-48e3-a27d-79840bc03b97",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1536x816",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "14eb2985-27a4-4811-9c23-858aa5f50d16",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=HTML",
+      "targets": [
+        ["linkText=HTML", "linkText"],
+        ["css=.subtopnav_firstitem", "css:finder"],
+        ["xpath=(//a[contains(text(),'HTML')])[3]", "xpath:link"],
+        ["xpath=//div[@id='subtopnav']/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/html/default.asp')])[3]", "xpath:href"],
+        ["xpath=//body/div[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ebc22469-b228-44a8-bcb7-d14a40761ef7",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=HTML Introduction",
+      "targets": [
+        ["linkText=HTML Introduction", "linkText"],
+        ["css=#leftmenuinnerinner > a:nth-child(3)", "css:finder"],
+        ["xpath=//a[contains(text(),'HTML Introduction')]", "xpath:link"],
+        ["xpath=//div[@id='leftmenuinnerinner']/a[2]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'html_intro.asp')]", "xpath:href"],
+        ["xpath=//body/div[4]/div/div/a[2]", "xpath:position"],
+        ["xpath=//a[contains(.,'HTML Introduction')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "cb0ea9a4-3694-4df7-8adf-31d7ab9c1034",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,968)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7aeb188d-5469-493c-9562-2e844caaf4cf",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,1500)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8ddc93ab-40d6-430f-b7d5-4cc54290d27e",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,2299.199951171875)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a24e5e27-ccb0-433e-8322-2d4be4190649",
+      "comment": "",
+      "command": "click",
+      "target": "css=.quizoption:nth-child(3) > label",
+      "targets": [
+        ["css=.quizoption:nth-child(3) > label", "css:finder"],
+        ["xpath=//div[@id='exercisecontainer']/form/div[3]/label", "xpath:idRelative"],
+        ["xpath=//div[3]/label", "xpath:position"],
+        ["xpath=//label[contains(.,'Hyper Text Markup Language')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "8c3b8887-4dc0-43ea-96d3-1418f048072b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ws-btn:nth-child(6)",
+      "targets": [
+        ["css=.ws-btn:nth-child(6)", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//div[@id='exercisecontainer']/form/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Submit Answer »')]", "xpath:innerText"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win6786",
+      "windowTimeout": 2000
+    }, {
+      "id": "d1390be9-4f34-4314-a9f0-1f2064c531cf",
+      "comment": "",
+      "command": "storeWindowHandle",
+      "target": "root",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "604847b4-2747-4d35-8440-50cb63df3f31",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win6786}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "85ccf04f-03c1-4f00-b997-b51d38550401",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${root}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "cb8fe632-65cc-4c5c-bd49-b7164af8fb70",
+      "comment": "",
+      "command": "click",
+      "target": "id=tnb-google-search-input",
+      "targets": [
+        ["id=tnb-google-search-input", "id"],
+        ["css=#tnb-google-search-input", "css:finder"],
+        ["xpath=//input[@id='tnb-google-search-input']", "xpath:attributes"],
+        ["xpath=//div[@id='tnb-google-search-inner-container']/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6583d17f-09d0-4e06-8c16-8f417200d3c3",
+      "comment": "",
+      "command": "type",
+      "target": "id=tnb-google-search-input",
+      "targets": [
+        ["id=tnb-google-search-input", "id"],
+        ["css=#tnb-google-search-input", "css:finder"],
+        ["xpath=//input[@id='tnb-google-search-input']", "xpath:attributes"],
+        ["xpath=//div[@id='tnb-google-search-inner-container']/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "java"
+    }, {
+      "id": "3a0287d5-27f8-45de-8975-f3840a6e9c7a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.search_active > .span_search",
+      "targets": [
+        ["css=.search_active > .span_search", "css:finder"],
+        ["xpath=//div[@id='tnb-search-suggestions']/a/span", "xpath:idRelative"],
+        ["xpath=//span", "xpath:position"],
+        ["xpath=//span[contains(.,'Java')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "40a06405-7d2d-4973-ba09-f211cddd96c3",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=PYTHON",
+      "targets": [
+        ["linkText=PYTHON", "linkText"],
+        ["css=.ga-nav:nth-child(7)", "css:finder"],
+        ["xpath=//a[contains(text(),'PYTHON')]", "xpath:link"],
+        ["xpath=//div[@id='subtopnav']/a[5]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/python/default.asp')])[3]", "xpath:href"],
+        ["xpath=//body/div[3]/a[5]", "xpath:position"],
+        ["xpath=//a[contains(.,'PYTHON')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "5f7cef66-640d-4cfd-83ad-19e2a4776a0d",
+      "comment": "",
+      "command": "click",
+      "target": "id=navbtn_tutorials",
+      "targets": [
+        ["id=navbtn_tutorials", "id"],
+        ["linkText=Tutorials", "linkText"],
+        ["css=#navbtn_tutorials", "css:finder"],
+        ["xpath=//a[contains(text(),'Tutorials')]", "xpath:link"],
+        ["xpath=//a[@id='navbtn_tutorials']", "xpath:attributes"],
+        ["xpath=//div[@id='pagetop']/nav/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'javascript:void(0)')]", "xpath:href"],
+        ["xpath=//nav/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9c9ce6c2-fd55-4b5b-8263-8af382bed69a",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "id=navbtn_exercises",
+      "targets": [
+        ["id=navbtn_exercises", "id"],
+        ["linkText=Exercises", "linkText"],
+        ["css=#navbtn_exercises", "css:finder"],
+        ["xpath=//a[contains(text(),'Exercises')]", "xpath:link"],
+        ["xpath=//a[@id='navbtn_exercises']", "xpath:attributes"],
+        ["xpath=//div[@id='pagetop']/nav/a[2]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'javascript:void(0)')])[2]", "xpath:href"],
+        ["xpath=//a[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1234c837-d5ba-4bfb-9af5-84b7f156acb4",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ga-top-drop-tut-java:nth-child(1)",
+      "targets": [
+        ["css=.ga-top-drop-tut-java:nth-child(1)", "css:finder"],
+        ["xpath=//div[@id='tutorials_backend_links_list']/div[5]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/java/default.asp')]", "xpath:href"],
+        ["xpath=//div[4]/div/div[5]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c373f409-4eec-412e-bacf-1f1619b1492a",
+      "comment": "",
+      "command": "click",
+      "target": "id=navbtn_exercises",
+      "targets": [
+        ["id=navbtn_exercises", "id"],
+        ["linkText=Exercises", "linkText"],
+        ["css=#navbtn_exercises", "css:finder"],
+        ["xpath=//a[contains(text(),'Exercises')]", "xpath:link"],
+        ["xpath=//a[@id='navbtn_exercises']", "xpath:attributes"],
+        ["xpath=//div[@id='pagetop']/nav/a[2]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'javascript:void(0)')])[2]", "xpath:href"],
+        ["xpath=//a[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3d27bfb6-579e-4fa8-b0f4-7d74d3089c83",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.ga-top-drop-ex-bs4:nth-child(2)",
+      "targets": [
+        ["css=.ga-top-drop-ex-bs4:nth-child(2)", "css:finder"],
+        ["xpath=(//a[contains(text(),'Exercise')])[5]", "xpath:link"],
+        ["xpath=//div[@id='exercises_html_css_links_list']/div[4]/a[2]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/bootstrap4/bootstrap_exercises.asp')])[2]", "xpath:href"],
+        ["xpath=//nav[2]/div/div/div[2]/div/div[4]/a[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "78765eee-7fa8-4bb9-bc13-f89a217b2e41",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=PHP",
+      "targets": [
+        ["linkText=PHP", "linkText"],
+        ["css=.ga-top-drop-ex-php:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'PHP')]", "xpath:link"],
+        ["xpath=//div[@id='exercises_backend_links_list']/div[4]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/php/php_exercises.asp')]", "xpath:href"],
+        ["xpath=//nav[2]/div/div/div[4]/div/div[4]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "51f50810-17ca-4688-94f8-ccba87cc669b",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "linkText=PHP",
+      "targets": [
+        ["linkText=PHP", "linkText"],
+        ["css=.ga-top-drop-ex-php:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'PHP')]", "xpath:link"],
+        ["xpath=//div[@id='exercises_backend_links_list']/div[4]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/php/php_exercises.asp')]", "xpath:href"],
+        ["xpath=//nav[2]/div/div/div[4]/div/div[4]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "54eb34ee-07d3-4266-b884-fb2e07e18522",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Java",
+      "targets": [
+        ["linkText=Java", "linkText"],
+        ["css=.ga-top-drop-ex-java:nth-child(1)", "css:finder"],
+        ["xpath=(//a[contains(text(),'Java')])[2]", "xpath:link"],
+        ["xpath=//div[@id='exercises_backend_links_list']/div[5]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/java/java_exercises.asp')]", "xpath:href"],
+        ["xpath=//nav[2]/div/div/div[4]/div/div[5]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "de278b77-004c-485d-aa19-e0bcc1908bfd",
+      "comment": "",
+      "command": "click",
+      "target": "css=#xr_syntax span",
+      "targets": [
+        ["css=#xr_syntax span", "css:finder"],
+        ["xpath=//div[@id='xr_syntax']/h2/span", "xpath:idRelative"],
+        ["xpath=//a/div/h2/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Syntax')]", "xpath:innerText"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win5254",
+      "windowTimeout": 2000
+    }, {
+      "id": "d0ff6291-e6d6-473b-8bfe-7d9c25dc0d4f",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win5254}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "445af04b-9ded-4378-99d8-3fd913fd1850",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${root}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f1fe949a-0f40-4ab4-820c-4feead884984",
+      "comment": "",
+      "command": "click",
+      "target": "id=navbtn_services",
+      "targets": [
+        ["id=navbtn_services", "id"],
+        ["linkText=Services", "linkText"],
+        ["css=#navbtn_services", "css:finder"],
+        ["xpath=//a[contains(text(),'Services')]", "xpath:link"],
+        ["xpath=//a[@id='navbtn_services']", "xpath:attributes"],
+        ["xpath=//div[@id='pagetop']/nav/a[4]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'javascript:void(0)')])[4]", "xpath:href"],
+        ["xpath=//a[4]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cb238370-1dae-4c66-a355-49318c4b37fb",
+      "comment": "",
+      "command": "click",
+      "target": "id=navbtn_tutorials",
+      "targets": [
+        ["id=navbtn_tutorials", "id"],
+        ["linkText=Tutorials", "linkText"],
+        ["css=#navbtn_tutorials", "css:finder"],
+        ["xpath=//a[contains(text(),'Tutorials')]", "xpath:link"],
+        ["xpath=//a[@id='navbtn_tutorials']", "xpath:attributes"],
+        ["xpath=//div[@id='pagetop']/nav/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'javascript:void(0)')]", "xpath:href"],
+        ["xpath=//nav/a", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "29d06edb-0e05-454f-bb39-72023df7f63e",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["9e2d041c-538c-436d-b57d-a674e60f560e"]
+  }],
+  "urls": ["https://www.w3schools.com/"],
+  "plugins": []
+}

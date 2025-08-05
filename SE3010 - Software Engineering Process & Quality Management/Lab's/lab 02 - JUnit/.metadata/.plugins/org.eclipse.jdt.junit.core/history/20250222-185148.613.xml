@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AllTests" project="Labsheet_02" tests="10" started="10" failures="0" errors="0" ignored="0">
+  <testsuite name="Junit.AllTests" time="0.0">
+    <testsuite name="Junit.CalculationTest" time="0.0">
+      <testcase name="testAddition" classname="Junit.CalculationTest" time="0.0"/>
+      <testcase name="testSubtraction" classname="Junit.CalculationTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="Junit.CalculationTest2" time="0.0">
+      <testcase name="testAddition" classname="Junit.CalculationTest2" time="0.0"/>
+      <testcase name="testSubtraction" classname="Junit.CalculationTest2" time="0.0"/>
+    </testsuite>
+    <testsuite name="Junit.CalculationTest3" time="0.0">
+      <testcase name="testAddition" classname="Junit.CalculationTest3" time="0.0"/>
+      <testcase name="testSubtraction" classname="Junit.CalculationTest3" time="0.0"/>
+    </testsuite>
+    <testsuite name="Junit.CalculationTest4" time="0.0">
+      <testcase name="testAddition" classname="Junit.CalculationTest4" time="0.0"/>
+      <testcase name="testSubtraction" classname="Junit.CalculationTest4" time="0.0"/>
+    </testsuite>
+    <testsuite name="Junit.CalculationTest5" time="0.0">
+      <testcase name="testAddition" classname="Junit.CalculationTest5" time="0.0"/>
+      <testcase name="testSubtraction" classname="Junit.CalculationTest5" time="0.0"/>
+    </testsuite>
+  </testsuite>
+</testrun>

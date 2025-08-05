@@ -1,0 +1,17 @@
+package Junit;
+
+import org.junit.Before;
+import org.junit.runner.RunWith;
+import org.junit.runners.Suite;
+import org.junit.runners.Suite.SuiteClasses;
+
+@RunWith(Suite.class)
+@SuiteClasses({ CalculationTest.class, CalculationTest2.class, CalculationTest3.class })
+public class AllTests {
+	@Before
+	public static void beforeclassAnnotation() {
+		System.out.println("Test all test cases");
+	}
+	
+
+}

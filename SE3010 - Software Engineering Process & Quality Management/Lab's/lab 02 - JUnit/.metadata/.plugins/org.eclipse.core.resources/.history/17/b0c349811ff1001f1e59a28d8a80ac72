@@ -1,0 +1,19 @@
+package Junit;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class CalculationTest4 {
+
+	@Test
+	public void testAddition() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSubtraction() {
+		fail("Not yet implemented");
+	}
+
+}

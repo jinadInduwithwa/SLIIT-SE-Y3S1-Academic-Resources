@@ -1,0 +1,24 @@
+package Junit;
+
+import static org.junit.Assert.*;
+
+import org.junit.Assert;
+import org.junit.Test;
+
+public class CalculationTest4 {
+
+	@Test
+	public void testAddition() {
+		 int a = 0;
+	        int b = -30;
+	        int expectedResult = -30;
+	        int result = Calculation.addition(a, b);
+	        Assert.assertEquals(expectedResult, result);
+	}
+
+	@Test
+	public void testSubtraction() {
+		fail("Not yet implemented");
+	}
+
+}

@@ -1,0 +1,28 @@
+package Junit;
+
+import static org.junit.Assert.*;
+
+import org.junit.Assert;
+import org.junit.Test;
+
+public class CalculationTest4 {
+
+	@Test
+	public void testAddition() {
+		 int a = 0;
+	        int b = -30;
+	        int expectedResult = -30;
+	        int result = Calculation.addition(a, b);
+	        Assert.assertEquals(expectedResult, result);
+	}
+
+	@Test
+	public void testSubtraction() {
+		 int x = 25;
+	        int y = 25;
+	        int expectedResult = 0;
+	        int result = Calculation.subtraction(x, y);
+	        Assert.assertEquals(expectedResult, result);
+	}
+
+}

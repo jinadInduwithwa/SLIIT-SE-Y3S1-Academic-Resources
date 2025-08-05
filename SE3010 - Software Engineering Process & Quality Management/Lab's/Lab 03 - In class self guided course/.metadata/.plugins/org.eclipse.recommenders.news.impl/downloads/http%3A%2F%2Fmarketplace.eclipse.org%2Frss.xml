@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://marketplace.eclipse.org/">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace | Eclipse Foundation - Explore, share, and collaborate on Eclipse Plugins, Tools, and Extensions. Discover new and popular additions to enhance your Eclipse development experience.</title>
+    <link>https://marketplace.eclipse.org/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Code Intelligence</title>
+  <link>https://marketplace.eclipse.org/content/code-intelligence</link>
+  <description><![CDATA[
+<span>Code Intelligence</span>
+
+              <p>A plugin that enhances the Java Development Tools (JDT) with AI assisted code completion and an AI chat window. Supports API access to Anthropic, Google Gemini, Groq, Ollama...</p>
+
+
+      
+<span><a title="View user profile." href="https://marketplace.eclipse.org/user/carstenhabicht">Carsten Habicht</a></span>
+
+<span>Sat, 02/15/2025 - 19:26
+</span>
+]]></description>
+  <pubDate>Sun, 16 Feb 2025 00:26:06 +0000</pubDate>
+    <dc:creator>Carsten Habicht</dc:creator>
+    <guid isPermaLink="false">6611299 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/artificial-intelligence">Artificial intelligence</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/chatgpt">chatgpt</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/ai-code-analysis">AI code analysis</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/ai">AI</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/gpt">GPT</category>
+    </item>
+<item>
+  <title>SonarQube for IDE</title>
+  <link>https://marketplace.eclipse.org/content/sonarqube-ide</link>
+  <description><![CDATA[
+<span>SonarQube for IDE</span>
+
+              <p>This plug-in helps you detect and fix quality and security issues as you write code in Java/JSP, C/C++, JS/TS/CSS, PHP, Python, and HTML/XML, as well as other languages.</p>
+
+
+      
+<span><a title="View user profile." href="https://marketplace.eclipse.org/user/jhenrym6y">Julien HENRY</a></span>
+
+<span>Thu, 10/15/2015 - 14:54
+</span>
+]]></description>
+  <pubDate>Thu, 15 Oct 2015 18:54:47 +0000</pubDate>
+    <dc:creator>Julien HENRY</dc:creator>
+    <guid isPermaLink="false">2568658 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/java">java</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/php">PHP</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/javascript">javascript</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/python">Python</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/static-analysis">static analysis</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/quality">quality</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/sonarqube">sonarqube</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/bugs">bugs</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/security">security</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/sonar">sonar</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/sonarlint">sonarlint</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/typescript">TypeScript</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/css">CSS</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/sonarcloud">SonarCloud</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/abap">ABAP</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/apex">Apex</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/c">c</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/c-0">c++</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/cobol">cobol</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/kotlin">kotlin</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/pli">PL/I</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/plsql">PL/SQL</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/rpg">RPG</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/ruby">Ruby</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/scala">scala</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/t-sql">T-SQL</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/jcl">jcl</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/salesforce">salesforce</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/sap">sap</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/mainframe">mainframe</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/jdt">JDT</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/cdt">CDT</category>
+    </item>
+<item>
+  <title>pmd-eclipse-plugin</title>
+  <link>https://marketplace.eclipse.org/content/pmd-eclipse-plugin</link>
+  <description><![CDATA[
+<span>pmd-eclipse-plugin</span>
+
+              <p>PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. It supports Java, JavaScript...</p>
+
+
+      
+<span><a title="View user profile." href="https://marketplace.eclipse.org/user/adangel">Andreas Dangel</a></span>
+
+<span>Sat, 03/05/2016 - 09:48
+</span>
+]]></description>
+  <pubDate>Sat, 05 Mar 2016 14:48:53 +0000</pubDate>
+    <dc:creator>Andreas Dangel</dc:creator>
+    <guid isPermaLink="false">2755329 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/pmd">PMD</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/linter">linter</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/source-code-analyzer">Source Code Analyzer</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/code-quality">code quality</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/java">java</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/apex">Apex</category>
+    </item>
+<item>
+  <title>GitHub Copilot</title>
+  <link>https://marketplace.eclipse.org/content/github-copilot</link>
+  <description><![CDATA[
+<span>GitHub Copilot</span>
+
+              <p>GitHub Copilot is your AI-powered coding assistant, offering assistance throughout your software development journey. Leveraging large language models, it offers suggestions via...</p>
+
+
+      
+<span><a title="View user profile." href="https://marketplace.eclipse.org/user/gcopilot">GitHub Copilot</a></span>
+
+<span>Tue, 02/11/2025 - 20:39
+</span>
+]]></description>
+  <pubDate>Wed, 12 Feb 2025 01:39:58 +0000</pubDate>
+    <dc:creator>GitHub Copilot</dc:creator>
+    <guid isPermaLink="false">6600208 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/github">github</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/copilot">copilot</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/code-completion">code completion</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/artificial-intelligence">Artificial intelligence</category>
+    </item>
+<item>
+  <title>SWT Matrix</title>
+  <link>https://marketplace.eclipse.org/content/swt-matrix</link>
+  <description><![CDATA[
+<span>SWT Matrix</span>
+
+              <p>SWT Matrix is a tabular widget for SWT Java GUI toolkit. What makes it different from other such components is unlimited capacity and instant rendering. It also focuses on...</p>
+
+
+      
+<span><a title="View user profile." href="https://marketplace.eclipse.org/user/jkolodziejczyk">Jacek Kolodziejczyk</a></span>
+
+<span>Sat, 05/14/2011 - 03:49
+</span>
+]]></description>
+  <pubDate>Sat, 14 May 2011 07:49:59 +0000</pubDate>
+    <dc:creator>Jacek Kolodziejczyk</dc:creator>
+    <guid isPermaLink="false">53317 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/swt-grid-table-widget">swt grid table widget</category>
+    </item>
+<item>
+  <title>GitLab for Eclipse</title>
+  <link>https://marketplace.eclipse.org/content/gitlab-eclipse</link>
+  <description><![CDATA[
+<span>GitLab for Eclipse</span>
+
+              <p>This page contains information related to upcoming products, features, and functionality. It is important to note that the information presented is for informational purposes only...</p>
+
+
+      
+<span><a title="View user profile." href="https://marketplace.eclipse.org/user/gitlab">GitLab Inc</a></span>
+
+<span>Wed, 01/15/2025 - 10:39
+</span>
+]]></description>
+  <pubDate>Wed, 15 Jan 2025 15:39:37 +0000</pubDate>
+    <dc:creator>GitLab Inc</dc:creator>
+    <guid isPermaLink="false">6528850 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>watsonx Code Assistant</title>
+  <link>https://marketplace.eclipse.org/content/watsonx-code-assistant</link>
+  <description><![CDATA[
+<span>watsonx Code Assistant</span>
+
+              <p>IBM® watsonx™ Code Assistant Overview IBM® watsonx™ Code Assistant is an innovative, generative AI coding companion that offers robust, contextually aware assistance for popular...</p>
+
+
+      
+<span><a title="View user profile." href="https://marketplace.eclipse.org/user/nrahul">N Rahul</a></span>
+
+<span>Mon, 12/09/2024 - 08:06
+</span>
+]]></description>
+  <pubDate>Mon, 09 Dec 2024 13:06:40 +0000</pubDate>
+    <dc:creator>N Rahul</dc:creator>
+    <guid isPermaLink="false">6436883 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/artificial-intelligence">Artificial intelligence</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/autocomplete">autocomplete</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/bash">bash</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/c-1">C#</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/cc-0">c/c++</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/chat">chat</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/code-completion">code completion</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/granite">granite</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/java">java</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/javascript">javascript</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/keybindings">keybindings</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/kotlin">kotlin</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/perl">Perl</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/php">PHP</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/python">Python</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/ruby">Ruby</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/swift">Swift</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/typescript">TypeScript</category>
+    </item>
+<item>
+  <title>IBM MQ Explorer Version 9.4.2</title>
+  <link>https://marketplace.eclipse.org/content/ibm-mq-explorer-version-942</link>
+  <description><![CDATA[
+<span>IBM MQ Explorer Version 9.4.2</span>
+
+              <p>MQ Explorer allows you to administer and monitor IBM® MQ objects, whether they are hosted on your local computer or on a remote system. It can remotely connect to queue managers...</p>
+
+
+      
+<span><a title="View user profile." href="https://marketplace.eclipse.org/user/mleming">Matt Leming</a></span>
+
+<span>Wed, 06/22/2016 - 05:05
+</span>
+]]></description>
+  <pubDate>Wed, 22 Jun 2016 09:05:42 +0000</pubDate>
+    <dc:creator>Matt Leming</dc:creator>
+    <guid isPermaLink="false">2940356 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/ibm-mq-mqexplorer-websphere">IBM MQ MQExplorer WebSphere</category>
+    </item>
+<item>
+  <title>Design and Verification Tools (DVT) IDE for Verilog, SystemVerilog, Verilog-AMS, VHDL or PSS</title>
+  <link>https://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-verilog-systemverilog-verilog-ams-vhdl-or-pss</link>
+  <description><![CDATA[
+<span>Design and Verification Tools (DVT) IDE for Verilog, SystemVerilog, Verilog-AMS, VHDL or PSS</span>
+
+              <p>Design and Verification Tools (DVT) is an integrated development environment (IDE) for the design and verification engineers working with SystemVerilog, Verilog, VHDL, e Language...</p>
+
+
+      
+<span><a title="View user profile." href="https://marketplace.eclipse.org/user/emisingname6ia">AMIQ EDA</a></span>
+
+<span>Wed, 04/19/2006 - 08:00
+</span>
+]]></description>
+  <pubDate>Wed, 19 Apr 2006 12:00:18 +0000</pubDate>
+    <dc:creator>AMIQ EDA</dc:creator>
+    <guid isPermaLink="false">192 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/ide-hardware-verification-languages">IDE for hardware verification languages</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/design-and-verification">design and verification</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/functional-verification">functional verification</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/systemverilog">SystemVerilog</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/verilog">Verilog</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/verilog-ams">Verilog-AMS</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/vhdl">VHDL</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/e-language">e language</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/pss">PSS</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/uvm">UVM</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/vmm">VMM</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/ovm">OVM</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/upf">UPF</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/cpf">CPF</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/sln">SLN</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/sdl">SDL</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/hvl">HVL</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/hvls">HVLs</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/hdl">HDL</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/hdls">HDLs</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/testbench">Testbench</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/verissimo">Verissimo</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/specador">Specador</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/dvt">DVT</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/dvteclipse">dvteclipse</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/rtl">RTL</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/amiq">amiq</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/eda">EDA</category>
+    </item>
+<item>
+  <title>Eclipse Xtend</title>
+  <link>https://marketplace.eclipse.org/content/eclipse-xtend</link>
+  <description><![CDATA[
+<span>Eclipse Xtend</span>
+
+              <p>Xtend is a statically-typed programming languages for Java developers. It leverages Java's typesystem and reuses its syntax as far as possible, but cuts down the amount of...</p>
+
+
+      
+<span><a title="View user profile." href="https://marketplace.eclipse.org/user/sefftinge">Sven Efftinge</a></span>
+
+<span>Mon, 11/07/2011 - 09:17
+</span>
+]]></description>
+  <pubDate>Mon, 07 Nov 2011 14:17:02 +0000</pubDate>
+    <dc:creator>Sven Efftinge</dc:creator>
+    <guid isPermaLink="false">148396 at https://marketplace.eclipse.org</guid>
+    <category domain="https://marketplace.eclipse.org/free-tagging/java">java</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/language">language</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/jvm">JVM</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/xtext">Xtext</category>
+    <category domain="https://marketplace.eclipse.org/free-tagging/fileextension_xtend">fileExtension_xtend</category>
+    </item>
+
+  </channel>
+</rss>

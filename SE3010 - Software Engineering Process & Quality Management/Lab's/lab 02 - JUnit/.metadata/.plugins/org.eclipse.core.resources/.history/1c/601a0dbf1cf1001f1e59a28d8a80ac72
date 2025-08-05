@@ -1,0 +1,25 @@
+package test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+import org.junit.Assert;
+
+
+public class CalculationTest {
+
+	@Test
+	public void testAddition() {
+		int a = 15;
+		int b = 20;
+		int expextedResult = 35;
+		int result = Calculation.addition(a, b);
+		Assert.assertEquals(expextedResult, result);
+	}
+
+	@Test
+	public void testSubstraction() {
+		//fail("Not yet implemented");
+	}
+
+}
