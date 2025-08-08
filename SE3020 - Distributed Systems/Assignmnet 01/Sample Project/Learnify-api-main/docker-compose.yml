@@ -1,0 +1,44 @@
+version: "3.8"
+
+services:
+  gateway:
+    container_name: gateway
+    build: ./ApiGateWay
+    ports:
+      - "8000:8000"
+
+  auth:
+    container_name: auth
+    build: ./AuthenticationService
+    ports:
+      - "8001:8001"
+
+  course:
+    container_name: course
+    build: ./CourseService
+    ports:
+      - "8002:8002"
+
+  learner:
+    container_name: learner
+    build: ./LearnerService
+    ports:
+      - "8003:8003"
+
+  notification:
+    container_name: notification
+    build: ./NotificationService
+    ports:
+      - "8004:8004"
+
+  payment:
+    container_name: payment
+    build: ./PaymentService
+    ports:
+      - "8005:8005"
+
+  user:
+    container_name: user
+    build: ./UserService
+    ports:
+      - "8006:8006"
