@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //this keyword refers to an object. 
+        //Which object depends on how this is being invoked (used or called). 
+
+        class Car { // class
+            constructor(name){ // simple class constructor.
+                this.brand = name;
+            }
+
+            present(){
+                return 'I have a '+ this.brand;
+            }
+        }
+        // create an object from the class and execute the methods.
+        const mycar = new Car("Ford");
+        document.write(mycar.present());
+
+    </script>
+    
+</body>
+</html>

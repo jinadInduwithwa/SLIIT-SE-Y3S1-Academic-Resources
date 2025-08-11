@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // “var”, “let” and “const” variables try their behaviors
+        
+        // let - provided Block Scope in JavaScript, Variables declared inside a { } block cannot be accessed from outside the block
+        let a = 10;
+
+        function f(){
+            if(true){
+                let b = 9
+                console.log(b);
+            }
+            console.log(b);  // It gives error as it  defined in if block
+        }
+
+        f()
+        console.log(a)
+
+
+    </script>
+    
+</body>
+</html>

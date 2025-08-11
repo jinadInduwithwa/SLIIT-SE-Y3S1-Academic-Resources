@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h2>Java Scripts objects</h2>
+
+    <p id="demo"></p>
+    
+    <script>
+// ------------ Animal properties and method encapsulation ----------------
+
+       const Animal = {
+
+            type: "Invertebrates", // Default value of properties
+            
+            // Method which will display type of Animal
+            displayType() {
+                console.log(this.type);
+            },
+        };
+
+        const animal_1 = Object.create(Animal); // Create new animal type called animal1
+        animal_1.displayType();
+
+        const fish = Object.create(Animal); // Create new animal type called fish
+        fish.type = "Fishes";
+        fish.displayType();
+
+    </script>
+</body>
+</html>

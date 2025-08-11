@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        /*
+        Class inheritance – create a class (base class) and create another class, derived
+        from base class that you crated and make a method within each class and, execute
+        method within derived class by creating an object of derived class and then,
+        execute the base class’s method via that object.
+        */
+
+        // base class
+        class Car {
+            constructor(name) {
+                this.brand = name;
+            }
+            present() {
+                return 'I have a ' + this.brand;
+            }
+        }
+        //deliverd class
+        class Model extends Car {
+            constructor(name, mod) {
+                super(name);
+                this.model = mod;
+            }
+            show() {
+                return this.present() + ', it is a ' + this.model
+            }
+        }
+
+        const mycar = new Model("Ford", "Mustang");
+        document.write(mycar.show());
+
+
+    </script>
+    
+</body>
+</html>

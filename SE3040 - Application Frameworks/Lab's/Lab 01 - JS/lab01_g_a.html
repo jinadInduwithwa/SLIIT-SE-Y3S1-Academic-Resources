@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        //Use destructuring when a function returns an array.
+        function calculate(a, b){
+            const add = a + b;
+            const subtract = a - b;
+            const multipy = a * b;
+            const divide = a / b;
+
+            return [add, subtract, multipy, divide];
+        }
+
+        const [add, subtract, multipy, divide] = calculate(4, 7);
+
+        document.write("<p>Sum : "+ add + "</p>");
+        document.write("<p>Difference : " + subtract + "</p>");
+        document.write("<p>Product: " + multipy + "</p>");
+        document.write("<p>Quotient: " + divide + "</p>");
+
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>JavaScript Closure</h2>
+<!--
+A closure is a function having access to the parent scope,
+even after the parent function has closed.
+-->
+<p id="demo"></p>
+<script>
+    //a closure gives you access to an outer function's scope from an inner function. 
+    function greeting(){
+        let message = 'Hi';
+
+        function sayHi(){
+            console.log(message)
+        }
+        return sayHi;
+    }
+
+    let hi = greeting();
+    hi(); 
+</script>
+    
+</body>
+</html>

@@ -1,0 +1,27 @@
+initial steup = npm init
+
+---------------- dependancies -----------------
+nodemon -  It monitors your project directory and automatically restarts your node application when it detects any changes.
+express - simplifies building web applications and APIs
+mongoose - simplifies working with MongoDB by providing an abstraction layer, schema definition, built-in data validation
+cors - enabling web applications to interact with external resources while maintaining security.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+npx ccreate-react-app Frontend
+
+
